@@ -1,27 +1,5 @@
 # README
 
 Name: Gunchica Bhalla 
-
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This app simulates GoodReads where MVC style of coding os followed to create users, books, ratings, readingList, and Author db with features likes # of ratings per book, average rating for the book, # of reading lists the book is in ie how many ppl are intrested in reading a book, favourite book of each user as per their rating, the authours most liked book. 
+The code is in Ruby
